@@ -1,7 +1,7 @@
 {
 	id: 'f5a99282-60c4-43c6-9a8a-67e55d805ca1',
 	base: 'dark',
-	desc: 'Misskey11(daybreak)のDarkテーマ',
+	desc: 'DaybreakのDark風テーマです。',
 	name: 'Daybreak Dark',
 	props: {
 		X2: ':darken<2<@panel',
